@@ -27,3 +27,5 @@ AddThree <- function(a) {
 
 
 # Create a variable `height.in.meters` by passing `height.in.feet` to your `FeetToMeters` function
+ 
+ height.in.meters <- FeetToMeters(height.in.feet)
