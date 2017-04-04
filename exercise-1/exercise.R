@@ -14,6 +14,12 @@ AddThree <- function(a) {
 
 # Write a function `FeetToMeters` that converts from feet to meters
 
+ FeetToMeters <- function(feet) {
+    meters = feet * 0.3048
+    
+    return(meters)
+ }
+ 
 
 # Create a variable `height.in.feet` that is your height in feet
 
