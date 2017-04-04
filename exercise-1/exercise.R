@@ -10,6 +10,7 @@ AddThree <- function(a) {
 
 # Create a variable `ten` by passing 7 to your `AddThree` function
 
+ ten <- AddThree(7)
 
 # Write a function `FeetToMeters` that converts from feet to meters
 
