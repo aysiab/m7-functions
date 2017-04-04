@@ -22,6 +22,8 @@ AddThree <- function(a) {
  
 
 # Create a variable `height.in.feet` that is your height in feet
+ 
+ height.in.feet <- 5.167
 
 
 # Create a variable `height.in.meters` by passing `height.in.feet` to your `FeetToMeters` function
