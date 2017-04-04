@@ -2,6 +2,11 @@
 
 # Write a function `AddThree` that adds 3 to an input value
 
+AddThree <- function(a) {
+  result <- a + 3
+  
+  return(result)
+}
 
 # Create a variable `ten` by passing 7 to your `AddThree` function
 
