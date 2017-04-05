@@ -10,6 +10,7 @@ CompareLength <- function(vector.a, vector.b) {
 
 # Pass two vectors of different length to your `CompareLength` function
 
+CompareLength(c(1,2,3,4,5), c(2,1,0))
 
 # Write a function `DescribeDifference` that will return one of the following statements:
 # "Your first vector is longer by N elements"
